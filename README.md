@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of the Horiseon website project is to refactor and optomise an html starter code to allign with accessbility standards, as well as seo purposes. For example, Alt text was added to the images to make the website more accessible. 
+The purpose of the Horiseon website project is to refactor and optomise an html starter code to allign with accessibility standards, as well as seo purposes. For example, Alt text was added to the images to make the website more accessible. 
 The process of the project includes rewriting the index.html using semantic elements, and making adjustments to the CSS style sheet accordingly. Then, multiple tests were done on the links to assure they work appropriately. 
 
 ## Installation
